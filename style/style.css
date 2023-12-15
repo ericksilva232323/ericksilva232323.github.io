@@ -117,8 +117,14 @@ section .home .flex{
 .home .flex .home-img{
     margin: 0;    
     padding: 0;
-    min-height: 100%;
     margin-left: 20%;
+}
+
+.home-img{
+    background-image: url("/assetes/black-background-with-wavy-lines-white-abstraction_280388-964.jpg");
+    background-size:auto;
+    width:;
+
 }
 
 span {
